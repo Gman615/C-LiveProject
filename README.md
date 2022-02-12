@@ -4,7 +4,7 @@ As a part of my programming education through the Tech Academy Boot Camp, we did
 
 # Cast Member Model
 
-Below is the model I created for the Cast Member section of the site that I created for this live project. This section allows site users to input data about cast members who are involved in the theatre productions. There is also a property which allows users to upload a photo and it is converted to bytes and stored in the database.
+Below is the model for the Cast Member section of the site that I created for this live project. This section allows site users to input data about cast members who are involved in the theatre productions. There is also a property which allows users to upload a photo and it is converted to bytes and stored in the database.
 
     using System;
     using System.Collections.Generic;
