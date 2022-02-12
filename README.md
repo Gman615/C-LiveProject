@@ -65,7 +65,7 @@ The below section is the section from my controller which converts the provided 
 
 # Index View
 
-This section shows the "Retrive Image" method being used in the Index part of the views in the MVC app. The line for the method calls the method and passes the integer argument of the ID.
+This section shows the "Retrieve Image" method being used in the Index part of the views in the MVC app. The line for the method calls the method and passes the integer argument of the ID.
 
     @model IEnumerable<TheatreCMS2.Models.CastMember>
 
